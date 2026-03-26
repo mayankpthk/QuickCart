@@ -64,4 +64,4 @@ const PLATFORM_FEE   = 50;
 const DELIVERY_FEE   = 0; // FREE
 
 /* Google Sheets Endpoint — replace with your own deployed Apps Script URL */
-const SHEET_URL = 'https://script.google.com/macros/s/YOUR_SCRIPT_ID/exec';
+const SHEET_URL = 'https://script.google.com/macros/s/AKfycbxXg8vEeUrl8UyKefD0O-Xa9MaqoDq3r2E8GICLT5HmRq6jbQTgsLbeXBWz8sfSvrzC/exec';
