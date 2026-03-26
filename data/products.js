@@ -44,6 +44,7 @@ const PRODUCTS = [
   { id: 23, cat: 'dairy',   name: 'Butter Salted',        weight: '100g',    price: 52,  mrp: 58,  time: '10 mins', badge: '',        img: 'https://images.unsplash.com/photo-1589985270827-1c9e93498e5a?w=300&q=80' },
   { id: 24, cat: 'drinks',  name: 'Coconut Water',        weight: '200ml',   price: 30,  mrp: 35,  time: '7 mins',  badge: 'Fresh',   img: 'https://images.unsplash.com/photo-1581798459219-318e76aecc7b?w=300&q=80' },
   { id: 25, cat: 'baby',    name: 'Baby Diapers S',       weight: '20 pcs',  price: 299, mrp: 349, time: '12 mins', badge: '',        img: 'https://images.unsplash.com/photo-1522771930-78848d9293e8?w=300&q=80' },
+  { id: 26, cat: 'care',    name: 'RCB X PUMA 2026 Jersey',       weight: '1 pcs',  price: 4999, mrp: 5999, time: '12 mins', badge: 'New',        img: 'https://teehubshop.com/wp-content/uploads/2026/02/RCB-JERSEY-2026-FRONT-600x800.jpg' },
 ];
 
 const OFFERS = [
